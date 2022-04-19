@@ -1,5 +1,5 @@
-# JS AMAZONA
-# Amazona ECommerce Website
+# SE Projec
+# Raw Food Items E-Mart Website
 ![amazona](/frontend/images/jsamazona.jpg)
 
 # JavaScript Tutorial - Full ECommerce in 7 Hours [2021]
