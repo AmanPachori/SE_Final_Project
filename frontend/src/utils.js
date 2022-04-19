@@ -1,5 +1,7 @@
 import { getCartItems } from './localStorage';
 
+
+
 export const parseRequestUrl = () => {
   const address = document.location.hash.slice(1).split('?')[0];
   const queryString =
