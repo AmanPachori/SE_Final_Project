@@ -2,7 +2,7 @@
 
 ### 1. Clone repo
 
-### 3. Create .env file
+### 2. Create .env file
 - Create .env file in project folder
 - Enter these lines to that:
 
@@ -12,7 +12,7 @@ JWT_SECRET = secretkey
 
 ```
 
-### 4. Run Backend
+### 3. Run Backend
 
 ```
 $ npm install
@@ -20,7 +20,7 @@ $ npm run build
 $ npm start
 ```
 
-### 5. Run Frontend
+### 4. Run Frontend
 
 ```
 # open new terminal
