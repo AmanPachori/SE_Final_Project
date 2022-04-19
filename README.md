@@ -1,4 +1,4 @@
-# SE Projec
+# SE Project
 # Raw Food Items E-Mart Website
 ![amazona](/frontend/images/jsamazona.jpg)
 
