@@ -64,5 +64,5 @@ var _default = {
     numReviews: 45,
     countInStock: 6
   }]
-};
+}; 
 exports.default = _default;
