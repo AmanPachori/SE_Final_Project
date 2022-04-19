@@ -79,7 +79,7 @@ userRouter.put(
       res.status(404).send({
         message: 'User Not Found',
       });
-    } else {
+    }else {
       user.name = req.body.name || user.name;
       user.email = req.body.email || user.email;
       user.password = req.body.password || user.password;
