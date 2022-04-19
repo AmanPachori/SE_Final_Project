@@ -36,6 +36,7 @@ const routes = {
   '/productlist': ProductListScreen,
   '/orderlist': OrderListScreen,
 };
+
 const router = async () => {
   showLoading();
   const request = parseRequestUrl();
